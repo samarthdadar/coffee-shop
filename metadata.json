@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Artisan",
+  "description": "Artisanal specialty cafe digital menu, bespoke craft beverage customizer, table cart & checkout, live kitchen display system, and floor menu manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
